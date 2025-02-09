@@ -1,12 +1,3 @@
-project plan
-
-1 hawa muhumed ali  api
-
-2 zamzam abdllhi abdi screen
-
-3 fardowsa noor pages
-
-faruuq farxn dahir servercies and token
 
 📌 Project Features
 
